@@ -1,8 +1,19 @@
 {
+	
 	"pools":[
 	{
-		"name": "Wattpoll",
-        	"url": "stratum+tcp://verus.wattpool.net:1230",
+		"name": "LuckPool",
+        	"url": "stratum+tcp://na.luckpool.net:3960",
+		"timeout": 150
+	},
+	{
+		"name": "LuckPoolFailover1",
+        	"url": "stratum+tcp://na.luckpool.net:3956",
+		"timeout": 150
+	},
+	{
+		"name": "LuckPoolFailover2",
+        	"url": "stratum+tcp://na.luckpool.net:3957",
 		"timeout": 150
 	},
 	],
