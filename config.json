@@ -1,5 +1,4 @@
 {
-	
 	"pools":[
 	{
 		"name": "LuckPool",
@@ -17,7 +16,7 @@
 		"timeout": 150
 	}
 	],
-	"user": "R9Wa11rytaRnYg2d5r8TsrxAJuuC3skZUC.A40",
+	"user": "R9gMUNgXpwyhE74K1KmEU6acjAtoZ9XUzR.PHONE_FARM",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
